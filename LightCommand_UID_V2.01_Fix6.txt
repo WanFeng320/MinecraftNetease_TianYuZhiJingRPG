@@ -1,0 +1,10 @@
+Written By StarXiyu
+Optimized by WanFeng720
+/scoreboard objectives add uid dummy
+/tellraw @a[name=uid] {"selector":"@e"}
+/scoreboard players tag @r[tag=!player] add new
+execute @a[tag=new] ~ ~ ~ scoreboard players operation @s uid = uid uid
+tellraw @a [{"text":"[LightCommand-UID]","color":"gray","bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false},{"text":"又一位粉嫩嫩的新人","color":"yellow","bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false},{"selector":"@a[tag=new]","color":"light_purple","bold":true,"italic":false,"underlined":true,"strikethrough":false,"obfuscated":false},{"text":"第一次进入了本服，好耶！","color":"yellow","bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false},{"text":"\n[UID反馈日志] ","color":"gray","bold":"true"},{"text":"ta的uid是：","color":"yellow","bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false},{"score":{"objective":"uid","name":"@a[tag=new]"},"color":"light_purple","bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]
+/scoreboard players add uid uid 1
+/scoreboard players tag @a[tag=new] add player
+/scoreboard players tag @a remove new
