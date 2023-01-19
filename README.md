@@ -1,0 +1,4 @@
+# MinecraftNetease_TianYuZhiJingRPG
+Minecraft_1.12.2_TianYuZhiJingRPG_Corecommand
+这是我们可以公开的所有服务器指令
+之后会随服务器更新而更新
