@@ -1,0 +1,661 @@
+GNU AFFERO 通用公共许可证
+版本 3， 2007 年 11 月 19 日
+
+版权所有 （C） 2007 自由软件基金会 <https://fsf.org/>
+每个人都可以复制和分发逐字副本
+此许可文档，但不允许更改它。
+
+序言
+
+GNU Affero 通用公共许可证是一个免费的、copyleft 的许可证，用于
+软件和其他类型的作品，专门设计用于确保
+在网络服务器软件的情况下与社区合作。
+
+大多数软件和其他实际作品的许可证都是设计好的
+剥夺你分享和改变作品的自由。相比之下，
+我们的通用公共许可证旨在保证您自由
+共享和更改程序的所有版本 - 以确保它保持空闲
+适用于所有用户的软件。
+
+当我们谈论自由软件时，我们指的是自由，而不是自由。
+价格。我们的通用公共许可证旨在确保您
+有自由分发自由软件的副本（并收取
+如果您愿意），您会收到源代码，或者如果您愿意，则可以获取源代码
+想要它，您可以更改软件或在新的中使用它的一部分
+免费程序，并且你知道你可以做这些事情。
+
+使用我们的通用公共许可证的开发人员保护您的权利
+通过两个步骤：（1） 主张软件的版权，以及 （2） 提供
+您本许可授予您复制、分发的法律许可
+和/或修改软件。
+
+捍卫所有用户自由的第二个好处是
+在程序的替代版本中所做的改进（如果有）
+得到广泛使用，可供其他开发人员使用
+合并。许多自由软件的开发者都感到振奋和
+受到由此产生的合作的鼓舞。但是，在
+在网络服务器上使用的软件，此结果可能无法实现。
+GNU 通用公共许可证允许制作修改版本和
+让公众在服务器上访问它，而无需释放其
+源代码向公众开放。
+
+GNU Affero 通用公共许可证专门设计用于
+确保在这种情况下，修改后的源代码可用
+到社区。它要求网络服务器的操作员
+将在那里运行的修改版本的源代码提供给
+该服务器的用户。因此，公开使用修改后的版本，在
+可公开访问的服务器，允许公众访问源
+修改后版本的代码。
+
+较旧的许可证，称为 Affero 通用公共许可证和
+由Affero出版，旨在实现类似的目标。这是
+不同的许可证，不是 Affero GPL 的版本，但 Affero 有
+发布了新版本的 Affero GPL，允许根据
+此许可证。
+
+复制、分发和
+修改如下。
+
+条款与条件
+
+0. 定义。
+
+“本许可证”是指 GNU Affero 通用公共许可证的第 3 版。
+
+“版权”也指适用于其他类型的类似版权的法律
+作品，如半导体掩模。
+
+“本计划”是指根据本许可的任何受版权保护的作品
+许可证。每个被许可人都称呼为“您”。“被许可人”和
+“收件人”可以是个人或组织。
+
+“修改”作品是指复制或改编全部或部分作品
+以需要版权许可的方式，而不是制作
+精确副本。由此产生的作品称为
+早期作品或“基于”早期作品的作品。
+
+“涵盖的作品”是指未经修改的程序或基于作品的作品
+在程序上。
+
+“传播”一部作品意味着用它做任何事情，而没有
+许可，将使您直接或间接地承担以下责任
+根据适用的版权法侵权，除非在
+计算机或修改私人副本。传播包括复制，
+分发（有或没有修改），提供给
+公共活动，在某些国家/地区还有其他活动。
+
+“传达”作品是指任何使其他作品能够传播
+制作或接收副本的各方。仅通过以下方式与用户交互
+没有副本传输的计算机网络不会传输。
+
+交互式用户界面显示“适当的法律声明”
+在某种程度上，它包括方便且醒目的可见
+（1） 显示适当的版权声明的功能，以及 （2）
+告诉用户作品没有保修（除了
+提供保证的范围），被许可人可以传达
+在本许可下工作，以及如何查看本许可的副本。如果
+该界面显示用户命令或选项的列表，例如
+菜单，则列表中的突出项目符合此标准。
+
+1. 源代码。
+
+作品的“源代码”是指作品的首选形式
+用于对其进行修改。“目标代码”是指任何非来源
+作品的形式。
+
+“标准接口”是指官方接口
+由公认的标准机构定义的标准，或者在
+为特定编程语言指定的接口，一种
+在使用该语言工作的开发人员中广泛使用。
+
+可执行作品的“系统库”包括任何内容，其他
+比整个作品，即（a）包含在正常形式的
+打包主要组件，但不属于该主要组件
+组件，以及 （b） 仅用于使工作能够使用
+主要组件，或实现标准接口，其
+实现以源代码形式向公众提供。一个
+在这种情况下，“主要组成部分”是指主要的基本组成部分
+（内核、窗口系统等）的特定操作系统
+（如果有）运行可执行工作，或用于
+生成工作，或用于运行它的对象代码解释器。
+
+目标代码形式的作品的“对应来源”是指所有
+生成、安装和（对于可执行文件
+工作）运行目标代码并修改工作，包括脚本
+控制这些活动。但是，它不包括作品的
+系统库、通用工具或正式免费提供
+在执行这些活动时未经修改使用的程序，但
+这不是工作的一部分。例如，对应源
+包括与源文件关联的接口定义文件
+共享库的工作和源代码以及动态
+工作专门设计要求的链接子程序，
+例如通过密切的数据通信或控制流
+子程序和工作的其他部分。
+
+对应源不需要包含用户的任何内容
+可以从相应其他部分自动再生
+源。
+
+  The Corresponding Source for a work in source code form is that
+same work.
+
+  2. Basic Permissions.
+
+  All rights granted under this License are granted for the term of
+copyright on the Program, and are irrevocable provided the stated
+conditions are met.  This License explicitly affirms your unlimited
+permission to run the unmodified Program.  The output from running a
+covered work is covered by this License only if the output, given its
+content, constitutes a covered work.  This License acknowledges your
+rights of fair use or other equivalent, as provided by copyright law.
+
+  You may make, run and propagate covered works that you do not
+convey, without conditions so long as your license otherwise remains
+in force.  You may convey covered works to others for the sole purpose
+of having them make modifications exclusively for you, or provide you
+with facilities for running those works, provided that you comply with
+the terms of this License in conveying all material for which you do
+not control copyright.  Those thus making or running the covered works
+for you must do so exclusively on your behalf, under your direction
+and control, on terms that prohibit them from making any copies of
+your copyrighted material outside their relationship with you.
+
+  Conveying under any other circumstances is permitted solely under
+the conditions stated below.  Sublicensing is not allowed; section 10
+makes it unnecessary.
+
+  3. Protecting Users' Legal Rights From Anti-Circumvention Law.
+
+  No covered work shall be deemed part of an effective technological
+measure under any applicable law fulfilling obligations under article
+11 of the WIPO copyright treaty adopted on 20 December 1996, or
+similar laws prohibiting or restricting circumvention of such
+measures.
+
+  When you convey a covered work, you waive any legal power to forbid
+circumvention of technological measures to the extent such circumvention
+is effected by exercising rights under this License with respect to
+the covered work, and you disclaim any intention to limit operation or
+modification of the work as a means of enforcing, against the work's
+users, your or third parties' legal rights to forbid circumvention of
+technological measures.
+
+  4. Conveying Verbatim Copies.
+
+  You may convey verbatim copies of the Program's source code as you
+receive it, in any medium, provided that you conspicuously and
+appropriately publish on each copy an appropriate copyright notice;
+keep intact all notices stating that this License and any
+non-permissive terms added in accord with section 7 apply to the code;
+keep intact all notices of the absence of any warranty; and give all
+recipients a copy of this License along with the Program.
+
+  You may charge any price or no price for each copy that you convey,
+and you may offer support or warranty protection for a fee.
+
+  5. Conveying Modified Source Versions.
+
+  You may convey a work based on the Program, or the modifications to
+produce it from the Program, in the form of source code under the
+terms of section 4, provided that you also meet all of these conditions:
+
+    a) The work must carry prominent notices stating that you modified
+    it, and giving a relevant date.
+
+    b) The work must carry prominent notices stating that it is
+    released under this License and any conditions added under section
+    7.  This requirement modifies the requirement in section 4 to
+    "keep intact all notices".
+
+    c) You must license the entire work, as a whole, under this
+    License to anyone who comes into possession of a copy.  This
+因此，许可将与任何适用的第 7 节一起适用
+附加条款，包括整个作品及其所有部分，
+无论它们如何包装。本许可证不提供
+允许以任何其他方式许可作品，但未许可
+如果您单独收到此类权限，则使其无效。
+
+d） 如果作品具有交互式用户界面，则必须显示每个用户界面
+适当的法律声明;但是，如果程序具有交互式
+不显示适当法律声明的界面，您的
+工作不需要让他们这样做。
+
+涵盖作品的汇编，以及其他独立和独立的作品
+作品，就其性质而言不是所涵盖作品的延伸，
+并且不与它结合，例如形成更大的程序，
+在存储或分发介质的卷中或卷上，称为
+“聚合”，如果汇编及其产生的版权不是
+用于限制汇编用户的访问或合法权利
+超出个人工作允许的范围。收录涵盖的作品
+合计不会导致本许可证适用于其他许可证
+聚合的一部分。
+
+6. 传达非源形式。
+
+您可以根据条款以目标代码形式传达涵盖的作品
+第 4 节和第 5 节，前提是您还传达
+根据本许可条款的机器可读对应源，
+通过以下方式之一：
+
+a） 在物理产品中或包含在物理产品中传达目标代码
+（包括物理分发介质），伴随着
+固定在耐用物理介质上的相应源
+通常用于软件交换。
+
+b） 在物理产品中或体现在物理产品中传达目标代码
+（包括物理分配介质），并伴有
+书面报价，有效期至少为三年，有效期为
+只要您为该产品提供备件或客户支持
+模型，为拥有目标代码的任何人提供 （1）
+所有软件的相应源的副本
+本许可证涵盖的产品，在耐用的物理上
+通常用于软件交换的介质，价格没有
+超过您实际执行此操作的合理成本
+来源的传达，或 （2） 访问复制
+来自网络服务器的相应源免费。
+
+c） 传送目标代码的单个副本和
+提供相应来源的书面提议。这
+仅偶尔和非商业性地允许替代，并且
+仅当您收到带有此类报价的目标代码时，才符合
+与第6b小节。
+
+d） 通过提供来自指定访问权限来传达目标代码
+地方（免费或收费），并提供对
+相应的源以相同的方式通过同一地点没有
+进一步收费。您无需要求收件人复制
+相应的源以及目标代码。如果地方
+复制目标代码是网络服务器，对应源
+可能位于其他服务器上（由您或第三方运营）
+支持等效的复制工具，前提是您维护
+目标代码旁边的明确说明在哪里可以找到
+对应来源。无论什么服务器托管
+相应的来源，您仍然有义务确保它是
+只要需要满足这些要求，就可以使用。
+
+e） 使用点对点传输传达目标代码，前提是
+您通知其他对等方目标代码和相应的位置
+作品来源不向公众提供
+根据第6d款提出的指控。
+
+目标代码的可分离部分，其源代码被排除在外
+从相应的源作为系统库，不需要
+包括在传达目标代码工作中。
+
+“用户产品”是 （1） “消费产品”，即任何
+通常用于个人、家庭、
+或家庭用途，或 （2） 为公司注册而设计或出售的任何物品
+进入住宅。在确定产品是否为消费品时，
+疑难案件应以有利于承保的方式解决。对于特定的
+特定用户收到的产品，“正常使用”是指
+该类产品的典型或常见用途，无论状态如何
+特定用户或特定用户的方式
+实际使用或预期或预期使用产品。一个产品
+是消费品，无论该产品是否具有实质性
+商业、工业或非消费用途，除非此类用途代表
+产品唯一重要的使用方式。
+
+用户产品的“安装信息”是指任何方法，
+安装所需的过程、授权密钥或其他信息
+并在该用户产品中执行涵盖作品的修改版本，来自
+其对应来源的修改版本。信息必须
+足以确保修改对象的持续运行
+在任何情况下，代码都不会仅仅因为
+已进行修改。
+
+如果您传达了本节下的目标代码，则与或
+专门用于用户产品，并且输送发生在
+交易的一部分，其中占有和使用权
+用户产品永久转让给接收方或用于
+固定期限（无论交易如何定性），
+Corresponding Source conveyed under this section must be accompanied
+by the Installation Information.  But this requirement does not apply
+if neither you nor any third party retains the ability to install
+modified object code on the User Product (for example, the work has
+been installed in ROM).
+
+  The requirement to provide Installation Information does not include a
+requirement to continue to provide support service, warranty, or updates
+for a work that has been modified or installed by the recipient, or for
+已修改或安装的用户产品。访问
+当修改本身实质上和
+对网络运行产生不利影响或违反规则和
+用于跨网络通信的协议。
+
+传达的相应来源和提供的安装信息，
+根据本节，必须采用公开的格式
+记录在案（并向公众提供实施
+源代码形式），并且必须不需要特殊的密码或密钥
+拆包、阅读或复制。
+
+7. 附加条款。
+
+“附加权限”是补充本条款的条款
+通过根据其一个或多个条件进行例外来许可。
+适用于整个程序的其他权限应
+被视为包含在本许可中，只要
+它们在适用法律下有效。如果其他权限
+仅适用于程序的一部分，该部分可以单独使用
+在这些许可下，但整个程序仍受
+本许可不考虑其他权限。
+
+当您传达所涵盖作品的副本时，您可以选择
+从该副本或 的任何部分删除任何其他权限
+它。（可以编写其他权限以要求自己的权限
+在某些情况下，当您修改作品时删除。您可以放置
+您对材料的额外权限，由您添加到涵盖的作品中，
+您拥有或可以给予适当的版权许可。
+
+尽管本许可有任何其他规定，对于材料
+添加到涵盖的作品中，您可以（如果获得版权所有者的授权）
+该材料）通过以下条款补充本许可的条款：
+
+a） 不承担与
+本许可第 15 条和第 16 条的条款;或
+
+b） 要求保存指定的合理法律声明或
+该材料或相应法律中的作者归属
+包含它的作品显示的通知;或
+
+c） 禁止歪曲该材料的来源，或
+要求在
+与原始版本不同的合理方式;或
+
+d） 限制为公布目的使用许可人的名称或
+材料的作者;或
+
+e） 拒绝根据商标法授予使用某些权利
+商号、商标或服务标志;或
+
+f） 要求对其许可人和作者进行赔偿
+任何传达材料的人的材料（或修改版本
+它）对接收人的责任承担合同，对于
+这些合同假设直接施加的任何责任
+那些许可人和作者。
+
+所有其他非许可性附加条款被视为“进一步”
+限制“，属于第 10 条的含义。如果程序像您一样
+收到它或其任何部分，包含一条通知，说明它是
+受本许可以及进一步的术语管辖
+限制，您可以删除该术语。如果许可证文档包含
+进一步的限制，但允许根据此重新许可或转让
+许可，您可以添加到受条款约束的涵盖工作材料中
+该许可文件，前提是进一步的限制确实
+无法在此类重新许可或转让中幸存下来。
+
+如果您根据本节向涵盖的作品添加条款，则您
+必须在相关源文件中放置
+适用于这些文件的附加条款，或指示
+在哪里可以找到适用的条款。
+
+附加条款，无论是允许的还是非允许的，都可以在
+单独书面许可的形式，或声明为例外;
+无论哪种方式，上述要求都适用。
+
+8. 终止。
+
+您不得传播或修改涵盖的作品，除非明确
+根据本许可提供。任何试图以其他方式传播或
+修改它是无效的，并且将自动终止您在
+本许可（包括根据第三项授予的任何专利许可）
+第11节的段落）。
+
+但是，如果您停止所有违反本许可证的行为，那么您的
+恢复特定版权所有者的许可 （a）
+暂时，除非并且直到版权所有者明确和
+最终终止您的许可，以及 （b） 永久终止，如果版权
+持有人未能通过某种合理的方式通知您违规行为
+在停止后60天之前。
+
+此外，您来自特定版权所有者的许可是
+如果版权所有者通知您
+通过一些合理的方式违反，这是你第一次有
+收到违反本许可证（针对任何作品）的通知
+版权所有者，并且您在 30 天后纠正违规行为
+您收到的通知。
+
+终止您在本节下的权利并不终止
+根据以下规定从您那里获得副本或权利的各方的许可
+this License.  If your rights have been terminated and not permanently
+reinstated, you do not qualify to receive new licenses for the same
+material under section 10.
+
+  9. Acceptance Not Required for Having Copies.
+
+  You are not required to accept this License in order to receive or
+run a copy of the Program.  Ancillary propagation of a covered work
+occurring solely as a consequence of using peer-to-peer transmission
+to receive a copy likewise does not require acceptance.  However,
+nothing other than this License grants you permission to propagate or
+modify any covered work.  These actions infringe copyright if you do
+not accept this License.  Therefore, by modifying or propagating a
+covered work, you indicate your acceptance of this License to do so.
+
+  10. Automatic Licensing of Downstream Recipients.
+
+每次您传达涵盖的作品时，收件人都会自动
+从原始许可方获得许可，以运行、修改和
+根据本许可传播该作品。你不负责任
+以强制第三方遵守本许可。
+
+“实体交易”是转移对
+组织，或一个的实质上所有资产，或细分一个
+组织或合并组织。如果传播覆盖
+工作结果来自实体事务，该交易的每一方
+交易 收到作品副本的人也会收到任何内容
+该党的前任感兴趣的作品的许可
+根据上一段给予，加上拥有
+感兴趣的前身作品的相应来源，如果
+前任拥有它或通过合理的努力可以得到它。
+
+您不得对行使
+根据本许可授予或确认的权利。例如，您可能
+不征收许可费、版税或其他费用来行使
+根据本许可授予的权利，您不得提起诉讼
+（包括诉讼中的交叉索赔或反索赔）声称
+任何专利权利要求因制造、使用、销售、提供
+销售或导入程序或其任何部分。
+
+11. 专利。
+
+“贡献者”是指根据此授权使用的版权所有者
+程序或程序所基于的作品的许可。这
+这样获得许可的作品被称为贡献者的“贡献者版本”。
+
+贡献者的“必要专利权利要求”都是专利权利要求
+由贡献者拥有或控制，无论是已经获得还是
+此后获得的，将以某种方式被侵权，允许
+根据本许可，制作、使用或销售其贡献者版本，
+但不包括仅作为
+进一步修改贡献者版本的后果。为
+本定义的目的，“控制”包括授予的权利
+以符合以下要求的方式进行专利再许可
+本许可。
+
+每个贡献者都授予您非排他性的、全球性的、免版税的
+根据贡献者的基本专利权利要求获得专利许可，
+制造、使用、出售、要约出售、导入和以其他方式运行、修改和
+传播其贡献者版本的内容。
+
+在以下三段中，“专利许可”是任何明示的
+协议或承诺，无论名称如何，不执行专利
+（例如明确允许实施专利或承诺不
+起诉专利侵权）。将此类专利许可“授予”给
+一方是指达成此类协议或承诺不执行
+针对当事人的专利。
+
+如果您故意依赖专利许可，转让涵盖的作品，
+并且作品的相应来源对任何人都不可用
+根据本许可的条款，通过
+公开可用的网络服务器或其他易于访问的方式，
+那么您必须 （1） 使相应的来源如此
+可用，或 （2） 安排剥夺自己的利益
+该特定作品的专利许可，或 （3） 以某种方式安排
+与本许可的要求一致，扩展专利
+许可证给下游收件人。“明知故犯”意味着你有
+实际知道，如果没有专利许可，您传达
+某个国家/地区的涵盖作品，或您的接收者对涵盖作品的使用
+在一个国家/地区，将侵犯一项或多项可识别的专利，其中
+您有理由相信的国家/地区是有效的。
+
+如果根据或与单笔交易有关，或
+安排，您通过购买转让来传达或通过购买转让来传播
+涵盖工作，并向某些方授予专利许可
+接收授权他们使用、传播、修改的涵盖作品
+或传达所涵盖作品的特定副本，然后是专利许可
+您的授权将自动扩展到受保范围的所有收件人
+工作并基于它工作。
+
+如果专利许可不包括
+其涵盖范围，禁止行使或
+以不行使以下一项或多项权利为条件：
+根据本许可专门授予。您不得传达承保
+如果您是与第三方安排的一方，则可以工作
+在分发软件的业务中，您根据该业务付款
+根据您的活动程度向第三方输送
+作品，以及第三方授予任何
+从您那里获得承保作品的各方，歧视性
+专利许可 （a） 与所涵盖作品的副本有关
+由您传达（或由这些副本制作的副本），或 （b） 主要
+对于特定产品或汇编，以及与以下特定产品或汇编相关的产品或汇编
+包含涵盖的作品，除非您达成该安排，
+或在2007年3月28日之前授予专利许可。
+
+本许可中的任何内容均不得解释为排除或限制
+任何默示许可或其他侵权抗辩可能
+否则，根据适用的专利法向您提供。
+
+12. 不放弃他人的自由。
+
+如果对您施加条件（无论是通过法院命令、协议或
+否则）与本许可证的条件相抵触，则不
+请原谅您遵守本许可的条件。如果您无法传达
+涵盖的工作，以便同时履行您在此项下的义务
+许可和任何其他相关义务，因此您可以
+根本不传达它。例如，如果您同意对您有义务的条款
+向您转让的人收取特许权使用费以进一步转让
+该计划，这是您同时满足这些条款和此条款的唯一途径
+许可是完全避免传达程序。
+
+13. 远程网络交互;与 GNU 通用公共许可证一起使用。
+
+尽管本许可有任何其他规定，如果您修改
+程序，您的修改版本必须突出显示所有用户
+通过计算机网络远程与之交互（如果您的版本
+支持此类互动）获得相应
+通过提供对相应来源的访问权限来获取版本的源
+从网络服务器免费，通过一些标准或习惯
+促进软件复制的手段。此对应来源
+应包括版本 3 涵盖的任何作品的相应来源
+根据
+以下段落。
+
+尽管本许可有任何其他规定，您有
+允许将任何涵盖的作品与许可作品链接或合并
+在 GNU 通用公共许可证的第 3 版下合并为单个
+结合工作，并传达由此产生的工作。这个条款
+许可证将继续适用于作为涵盖作品的部分，
+但与之结合的工作仍将受版本控制
+GNU 通用公共许可证的 3。
+
+14. 本许可的修订版本。
+
+自由软件基金会可能会发布修订版和/或新版本
+GNU Affero 通用公共许可证不时发布。这样的新版本
+在精神上与当前版本相似，但在细节上可能与
+解决新的问题或疑虑。
+
+每个版本都有一个可区分的版本号。如果
+程序指定了GNU Affero General的某个编号版本
+公共许可证“或任何更高版本”适用于它，您有
+选择遵循编号的条款和条件
+版本或自由软件发布的任何更高版本
+基础。如果程序未指定
+GNU Affero 通用公共许可证，您可以选择任何曾经发布过的版本
+由自由软件基金会提供。
+
+如果程序指定代理可以决定哪个未来
+可以使用GNU Affero通用公共许可证的版本，该代理的
+接受版本的公开声明永久授权您
+为程序选择该版本。
+
+更高版本的许可证可能会为您提供其他或不同的
+权限。但是，不会对任何
+作者或版权所有者，由于您选择关注
+后来的版本。
+
+15. 免责声明。
+
+在以下允许的范围内，该计划不提供任何保证
+适用法律。除非另有书面说明，否则版权
+持有人和/或其他方“按原样”提供程序，不提供保证
+任何明示或暗示的种类，包括但不限于：
+对特定适销性和适用性的默示保证
+目的。关于程序质量和性能的全部风险
+与你同在。如果程序被证明有缺陷，您将承担
+所有必要的服务、维修或纠正。
+
+16. 责任限制。
+
+在任何情况下，除非适用法律要求或书面同意
+任何版权所有者或任何其他修改和/或传达的方
+上述允许的程序对您承担损害赔偿责任，包括任何
+一般、特殊、偶然或后果性损害
+使用或无法使用本程序（包括但不限于丢失
+数据或数据被呈现为不准确或您或第三方遭受的损失
+各方或程序未能与任何其他程序一起运行），
+即使该持有人或其他方已被告知
+此类损害赔偿。
+
+17. 第 15 条和第 16 条的解释。
+
+如果提供的免责声明和责任限制
+以上不能根据其条款赋予当地法律效力，
+复审法院应适用最接近的当地法律
+绝对放弃与以下方面有关的所有民事责任
+计划，除非附带保证或责任承担
+程序副本以换取费用。
+
+条款和条件结束
+
+如何将这些条款应用于您的新计划
+
+如果你开发了一个新程序，并且你希望它成为最好的
+可能向公众使用，实现这一目标的最好方法是使其
+每个人都可以根据这些条款重新分发和更改的自由软件。
+
+为此，请将以下通知附加到程序中。这是最安全的
+以最有效地将它们附加到每个源文件的开头
+说明保修的排除;并且每个文件至少应具有
+“版权”行和指向完整通知位置的指针。
+
+<一行给出程序的名称和它的作用的简要说明>
+版权所有 （C） <年份> <作者姓名>
+
+该程序是免费软件：您可以重新分发它和/或修改
+它根据发布的 GNU Affero 通用公共许可证的条款
+由自由软件基金会提供，许可证的第 3 版，或
+（根据您的选择）任何更高版本。
+
+分发该程序是希望它有用，
+但没有任何保证;甚至没有默示的保证
+适销性或特定用途的适用性。请参阅的
+GNU Affero 通用公共许可证 了解更多详情。
+
+您应该已经收到一份 GNU Affero 通用公共许可证的副本
+以及这个程序。如果没有，请参阅<https://www.gnu.org/licenses/>。
+
+另添加有关如何通过电子邮件和纸质邮件与您联系的信息。
+
+如果您的软件可以通过计算机与用户远程交互
+网络，您还应该确保它为用户提供了一种方式
+获取其来源。例如，如果您的程序是一个 Web 应用程序，则其
+界面可以显示一个“源”链接，将用户引导至存档
+的代码。您可以通过多种方式提供来源，并且不同
+对于不同的程序，解决方案会更好;有关
+具体要求。
+
+你还应该得到你的雇主（如果你是一名程序员）或学校，
+如有，如有必要，签署程序的“版权免责声明”。
+有关此内容的更多信息，以及如何应用和遵循 GNU AGPL，请参阅
+<https://www.gnu.org/licenses/>。
